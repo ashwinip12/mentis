@@ -1,0 +1,103 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 600px;
+     /* background-color: #aa3939;  */
+    margin-left: 546px;
+        width: 309px;
+}
+/* .container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  /* background-color: #f5f5f5; */
+  /* margin-left: 546px;
+  width: 309px;
+  border: 1px solid #dcdcdc; /* Add border around the container */
+  /* border-radius: 8px; /* Optional: rounded corners */
+  /* padding: 20px; /* Optional: add padding inside the border */
+  /* background-color: #fff; /* Ensure background color is set */
+*/ */ */ */ */
+
+.header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.logo {
+  width: 50px;
+  margin-right: 15px;
+}
+
+.header-text .logo-text {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.header-text .version {
+  background-color: #e0e0e0;
+  padding: 2px 6px;
+  border-radius: 5px;
+  font-size: 14px;
+}
+
+.login-form .link {
+  display: block;
+  margin-bottom: 20px;
+  color: #007bff;
+}
+
+.login-with {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: -413px;
+    margin-left: -255px;
+}
+
+.social-login button {
+  margin: 0 5px;
+}
+
+.social-login button a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.google-btn {
+  background-color: #db4437;
+}
+
+.twitter-btn {
+  background-color: #1da1f2;
+}
+
+.facebook-btn {
+  background-color: #3b5998;
+}
+
+.btn {
+  width: 100%;
+  padding: 10px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #0056b3;
+}
+
+.forgot-password {
+  float: right;
+  color: #007bff;
+}
+
+.name {
+    margin-left: 109px;
+    margin-top: -39px;
+}
